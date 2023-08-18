@@ -1,38 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# LeetClone
 
-First, run the development server:
+This LeetClone project serves as a faithful emulation of LeetCode, intended to elevate my competencies. It encompasses the integration of all functions present on the official LeetCode website.
+
+The web application has been constructed using the packages provided in the following links, along with their corresponding GitHub repositories:
+
+# 
+
+### Skills
+ 
+Next.js
+
+React 
+
+FireBase
+
+Recoil global state management
+
+
+## Installation
+
+Install my-project with npm
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+  npm i --legacy-peer-deps
+  npm run dev
 ```
+    
+## Screenshots
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![App Screenshot](https://scrnli.com/data/4/4a/4a9/4a93/4a930/4a9303/4a9303993ead25bf14340deaa21b6c0edd3fdf23fd92e3ffe167d70f2fac4732/d38fe102c08b09d15.png)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+![App Screenshot](https://scrnli.com/data/4/4a/4a9/4a93/4a930/4a9303/4a9303993ead25bf14340deaa21b6c0edd3fdf23fd92e3ffe167d70f2fac4732/fe0dc29d008b1f256.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+![App Screenshot](https://scrnli.com/data/4/4a/4a9/4a93/4a930/4a9303/4a9303993ead25bf14340deaa21b6c0edd3fdf23fd92e3ffe167d70f2fac4732/db3ebd3f508b41c3c.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![App Screenshot](https://scrnli.com/data/4/4a/4a9/4a93/4a930/4a9303/4a9303993ead25bf14340deaa21b6c0edd3fdf23fd92e3ffe167d70f2fac4732/4806ce01d08b61328.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Feedback
 
-To learn more about Next.js, take a look at the following resources:
+If you have any feedback, please reach out to me at 
+dev796699@gmail.com
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🚀 About Me
+I specialize in developing applications using the MERN (MongoDB, Express.js, React, Node.js) stack and React Native. My expertise lies in crafting robust and scalable solutions for various software projects. With a keen focus on user experience and functionality, I take pride in creating dynamic and responsive applications that cater to modern technological demands.
